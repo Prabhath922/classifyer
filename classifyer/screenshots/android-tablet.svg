@@ -1,0 +1,41 @@
+
+<svg width="1200" height="1920" viewBox="0 0 1200 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="1920" fill="url(#bgGrad)"/>
+  
+  <!-- Status bar -->
+  <rect width="1200" height="96" fill="rgba(0,0,0,0.1)"/>
+  <text x="60" y="57.599999999999994" font-family="Arial, sans-serif" font-size="36" fill="white">9:41</text>
+  <text x="1140" y="57.599999999999994" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="end">100%</text>
+  
+  <!-- App content area -->
+  <rect x="120" y="192" width="960" height="1536" rx="24" fill="white" opacity="0.95"/>
+  
+  <!-- App header -->
+  <rect x="120" y="192" width="960" height="288" rx="24" fill="#4CAF50"/>
+  <text x="600" y="384" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="white">Waste Classifier</text>
+  
+  <!-- Main content -->
+  <circle cx="600" cy="768" r="96" fill="#4CAF50" opacity="0.3"/>
+  <text x="600" y="864" font-family="Arial, sans-serif" font-size="96" text-anchor="middle">♻️</text>
+  
+  <text x="600" y="1056" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#333">Android Screenshot 2</text>
+  <text x="600" y="1152" font-family="Arial, sans-serif" font-size="36" text-anchor="middle" fill="#666">AI-Powered Waste Classification</text>
+  
+  <!-- Buttons -->
+  <rect x="240" y="1344" width="300" height="153.6" rx="12" fill="#4CAF50"/>
+  <text x="390" y="1440" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="white">📷 Take Photo</text>
+  
+  <rect x="660" y="1344" width="300" height="153.6" rx="12" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <text x="810" y="1440" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#4CAF50">✏️ Describe</text>
+  
+  <!-- Footer -->
+  <text x="600" y="1824" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="white" opacity="0.7">Available on iOS and Android</text>
+</svg>

@@ -1,0 +1,126 @@
+{
+  "appName": "Waste Classifier",
+  "subtitle": "AI-Powered Recycling Assistant",
+  "version": "1.0.0",
+  "bundleId": "com.wasteclassifier.app",
+  "description": {
+    "short": "Transform your waste management with our intelligent classification app!",
+    "full": "Waste Classifier is an innovative mobile application that uses artificial intelligence to help you properly classify and dispose of waste materials. Simply take a photo or describe your waste item, and our AI will instantly categorize it into the correct disposal category.\n\n🔍 KEY FEATURES:\n• AI-powered photo recognition\n• Smart text-based classification\n• Comprehensive disposal instructions\n• Location-based recycling guidelines\n• Educational tips and best practices\n• Offline mode support\n• Multi-language support\n\n📱 HOW IT WORKS:\n1. Take a photo or describe your waste item\n2. Get instant AI classification\n3. Follow detailed disposal instructions\n4. Learn proper recycling practices\n\n🌱 WASTE CATEGORIES:\n• Plastic (recyclable)\n• Paper/Cardboard (recyclable)\n• Organic/Wet Waste (compostable)\n• Glass (recyclable)\n• Metal (recyclable)\n• General Garbage\n\n💡 BENEFITS:\n• Reduce environmental impact\n• Learn proper waste management\n• Save time on disposal decisions\n• Contribute to recycling efforts\n• Get location-specific guidelines\n\nJoin thousands of users making a positive environmental impact with Waste Classifier!"
+  },
+  "keywords": [
+    "waste classification",
+    "recycling app",
+    "eco-friendly",
+    "sustainability",
+    "AI waste detection",
+    "environmental app",
+    "green living",
+    "waste management",
+    "recycling guide",
+    "compost",
+    "plastic recycling",
+    "paper recycling",
+    "glass recycling",
+    "metal recycling",
+    "organic waste"
+  ],
+  "categories": {
+    "ios": ["Lifestyle", "Utilities"],
+    "android": ["Lifestyle", "Productivity"]
+  },
+  "ageRating": {
+    "ios": "4+",
+    "android": "Everyone"
+  },
+  "pricing": {
+    "model": "free",
+    "description": "Free with optional premium features"
+  },
+  "screenshots": {
+    "ios": [
+      {
+        "device": "iPhone 6.7\"",
+        "size": "1290x2796",
+        "description": "Main screen with camera and text input options"
+      },
+      {
+        "device": "iPhone 6.5\"",
+        "size": "1242x2688",
+        "description": "Camera interface for photo capture"
+      },
+      {
+        "device": "iPhone 5.5\"",
+        "size": "1242x2208",
+        "description": "Classification results with disposal instructions"
+      }
+    ],
+    "android": [
+      {
+        "device": "Phone",
+        "size": "1080x1920",
+        "description": "Main screen with AI classification features"
+      },
+      {
+        "device": "Tablet",
+        "size": "1200x1920",
+        "description": "Text input interface for waste description"
+      }
+    ]
+  },
+  "appStoreConnect": {
+    "appName": "Waste Classifier",
+    "subtitle": "AI-Powered Recycling Assistant",
+    "promotionalText": "Join the eco-revolution! Use AI to classify waste and learn proper disposal methods. Make every disposal decision count for the environment.",
+    "description": "Waste Classifier uses advanced AI to help you properly classify and dispose of waste materials. Take a photo or describe your item to get instant classification and detailed disposal instructions.",
+    "keywords": "waste,recycling,eco,environment,AI,classification,sustainability,green",
+    "supportUrl": "https://wasteclassifier.com/support",
+    "marketingUrl": "https://wasteclassifier.com",
+    "privacyPolicyUrl": "https://wasteclassifier.com/privacy",
+    "whatsNew": "🎉 Initial release of Waste Classifier!\n\n✨ Features:\n• AI-powered waste classification\n• Photo and text input options\n• Detailed disposal instructions\n• Location-based guidelines\n• Educational content\n\n🌱 Start your eco-friendly journey today!"
+  },
+  "googlePlay": {
+    "shortDescription": "AI-powered waste classification for better recycling",
+    "fullDescription": "Waste Classifier is an innovative mobile application that uses artificial intelligence to help you properly classify and dispose of waste materials. Simply take a photo or describe your waste item, and our AI will instantly categorize it into the correct disposal category.\n\n🔍 KEY FEATURES:\n• AI-powered photo recognition\n• Smart text-based classification\n• Comprehensive disposal instructions\n• Location-based recycling guidelines\n• Educational tips and best practices\n\n📱 HOW IT WORKS:\n1. Take a photo or describe your waste item\n2. Get instant AI classification\n3. Follow detailed disposal instructions\n4. Learn proper recycling practices\n\n🌱 WASTE CATEGORIES:\n• Plastic (recyclable)\n• Paper/Cardboard (recyclable)\n• Organic/Wet Waste (compostable)\n• Glass (recyclable)\n• Metal (recyclable)\n• General Garbage\n\nJoin thousands of users making a positive environmental impact!",
+    "contactWebsite": "https://wasteclassifier.com",
+    "contactEmail": "support@wasteclassifier.com",
+    "privacyPolicy": "https://wasteclassifier.com/privacy"
+  },
+  "permissions": {
+    "ios": [
+      "NSCameraUsageDescription: Allow Waste Classifier to access your camera to take photos of waste items for classification.",
+      "NSPhotoLibraryUsageDescription: Allow Waste Classifier to access your photo library to select images for waste classification.",
+      "NSLocationWhenInUseUsageDescription: Allow Waste Classifier to use your location to provide location-based waste disposal information."
+    ],
+    "android": [
+      "CAMERA: Camera access for photo capture",
+      "READ_EXTERNAL_STORAGE: Read photos from gallery",
+      "WRITE_EXTERNAL_STORAGE: Save photos",
+      "ACCESS_FINE_LOCATION: Location access for local guidelines"
+    ]
+  },
+  "features": [
+    "AI-powered waste classification",
+    "Photo and text input options",
+    "Comprehensive disposal instructions",
+    "Location-based recycling guidelines",
+    "Educational content and tips",
+    "Offline mode support",
+    "Multi-language support",
+    "Regular updates with new features"
+  ],
+  "targetAudience": [
+    "Environmentally conscious individuals",
+    "Families looking to improve recycling habits",
+    "Students learning about waste management",
+    "Businesses implementing green practices",
+    "Anyone interested in sustainability"
+  ],
+  "competitiveAdvantages": [
+    "Advanced AI technology for accurate classification",
+    "Multiple input methods (photo, text, voice)",
+    "Location-specific disposal guidelines",
+    "Educational content and tips",
+    "Offline functionality",
+    "Free to use with no hidden costs"
+  ]
+}

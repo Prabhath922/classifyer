@@ -1,0 +1,41 @@
+
+<svg width="1242" height="2208" viewBox="0 0 1242 2208" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1242" height="2208" fill="url(#bgGrad)"/>
+  
+  <!-- Status bar -->
+  <rect width="1242" height="110.4" fill="rgba(0,0,0,0.1)"/>
+  <text x="62.1" y="66.24" font-family="Arial, sans-serif" font-size="37.26" fill="white">9:41</text>
+  <text x="1179.8999999999999" y="66.24" font-family="Arial, sans-serif" font-size="37.26" fill="white" text-anchor="end">100%</text>
+  
+  <!-- App content area -->
+  <rect x="124.2" y="220.8" width="993.6" height="1766.4" rx="24.84" fill="white" opacity="0.95"/>
+  
+  <!-- App header -->
+  <rect x="124.2" y="220.8" width="993.6" height="331.2" rx="24.84" fill="#4CAF50"/>
+  <text x="621" y="441.6" font-family="Arial, sans-serif" font-size="62.1" font-weight="bold" text-anchor="middle" fill="white">Waste Classifier</text>
+  
+  <!-- Main content -->
+  <circle cx="621" cy="883.2" r="99.36" fill="#4CAF50" opacity="0.3"/>
+  <text x="621" y="993.6" font-family="Arial, sans-serif" font-size="99.36" text-anchor="middle">♻️</text>
+  
+  <text x="621" y="1214.4" font-family="Arial, sans-serif" font-size="49.68" font-weight="bold" text-anchor="middle" fill="#333">iPhone Screenshot 3</text>
+  <text x="621" y="1324.8" font-family="Arial, sans-serif" font-size="37.26" text-anchor="middle" fill="#666">AI-Powered Waste Classification</text>
+  
+  <!-- Buttons -->
+  <rect x="248.4" y="1545.6" width="310.5" height="176.64000000000001" rx="12.42" fill="#4CAF50"/>
+  <text x="403.65000000000003" y="1656" font-family="Arial, sans-serif" font-size="31.05" text-anchor="middle" fill="white">📷 Take Photo</text>
+  
+  <rect x="683.1" y="1545.6" width="310.5" height="176.64000000000001" rx="12.42" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <text x="838.35" y="1656" font-family="Arial, sans-serif" font-size="31.05" text-anchor="middle" fill="#4CAF50">✏️ Describe</text>
+  
+  <!-- Footer -->
+  <text x="621" y="2097.6" font-family="Arial, sans-serif" font-size="24.84" text-anchor="middle" fill="white" opacity="0.7">Available on iOS and Android</text>
+</svg>
